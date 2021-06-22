@@ -24,6 +24,22 @@
       "symbol": "FUJIMOON",
       "decimals": 9,
       "logoURI": "https://i.imgur.com/jNTqyQA.png"
-    }
+    },
+    {
+        "address": "0x97132C109c6816525F7f338DCb7435E1412A7668",
+        "chainId": 43113,
+        "name": "To the Moon",
+        "symbol": "FUJIMOON",
+        "decimals": 18,
+        "logoURI": "https://i.imgur.com/jNTqyQA.png"
+      },
+   {
+        "address": "0x713b4b585b64aBbF2B319e3e22F2b886e79Ab0BF",
+        "chainId": 43113,
+        "name": "pangolin PYRO",
+        "symbol": "pPYRO",
+        "decimals": 18,
+        "logoURI": "https://i.imgur.com/jNTqyQA.png"
+      }
   ]
 }
